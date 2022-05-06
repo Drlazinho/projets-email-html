@@ -1,32 +1,107 @@
 <mjml>
   <mj-body>
-    <mj-section background-color="#fff">
+    <mj-section>
       <mj-column width="600px">
         <mj-image src='https://cdn.sistemawbuy.com.br/arquivos/f8c8a8d71ca07ad727c1fdfe63a594ac/config/dhea-prasterona-melatonina,logo-fundo-branco-2-371.jpg' alt="Logomarca Global Vitaminas " width="300px" />
-        <mj-image src="" alt="Banner Global Vitaminas" />
+        <mj-image width="600px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/banner.png?raw=true" alt="Banner Global Vitaminas" />
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section background-color="#B4EA8F">
       <mj-column width="300px">
-        <mj-image src="https://cdn-icons.flaticon.com/png/128/562/premium/562678.png?token=exp=1651842042~hmac=0dde09a4931e870e87d5aa9fc2a58064" alt="" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/emagrecer.png?raw=true" alt="Dieta para Emagrecer" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/sono.png?raw=true" alt="Sono" />
       </mj-column>
       <mj-column width="300px">
-        <mj-image src="https://cdn-icons.flaticon.com/png/128/562/premium/562678.png?token=exp=1651842042~hmac=0dde09a4931e870e87d5aa9fc2a58064" alt="" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/idade.png?raw=true" alt="Idade" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/vitaminas.png?raw=true" alt="Vitaminas A a Z" />
       </mj-column>
     </mj-section>
+      <mj-section>
+        <mj-column width="600px">
+          <mj-text align="center">
+            <h1>Lançamentos e Ofertas<h1>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column width="200px">
+          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto4.png?raw=true" alt="" width="80px"/>
+          <mj-text align="center">
+            <p>Tribulus Terrestris 625 mg - 100 Cápsulas - Optimum Nutrition<p/>
+            <p>R$ 129,99<p/>
+            <p style="color:#71878e">3x de R$33,30 sem juros<p/>
+          </mj-text>
+          <mj-button>
+            Pedir
+          </mj-button>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="148px"/>
+          <mj-text align="center">
+            <p>Cognitex Elite Pregnenolone (Gastrodin) - Life Extension - 60 Capsulas<p/>
+            <p>R$ 399,90<p/>
+          </mj-text>
+          <mj-button>
+            Pedir
+          </mj-button>
+        </mj-column>
+        <mj-column width="140px">
+          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto2.png?raw=true" alt="" />
+          <mj-text align="center">
+            <p>Mens Virility Power - Now Foods - 120 cápsulas<p/>
+            <p>R$ 199,90<p/>
+          </mj-text>
+          <mj-button>
+            Pedir
+          </mj-button>
+        </mj-column>
+      </mj-section>
 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" width="600px" />
+
+      <mj-section>          
+        <mj-column width="200px">
+          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto1.png?raw=true" alt="" />
+          <mj-text align="center">
+            <p>Tribulus Terrestris 625 mg - 100 Cápsulas - Optimum Nutrition<p/>
+            <p>R$ 129,99<p/>
+          </mj-text>
+          <mj-button>
+            Pedir
+          </mj-button>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto4.png?raw=true" alt=""  width="100px"/>
+          <mj-text align="center">
+            <p>Tribulus Terrestris 625 mg - 100 Cápsulas - Optimum Nutrition<p/>
+            <p>R$ 129,99<p/>
+          </mj-text>
+          <mj-button>
+            Pedir
+          </mj-button>
+        </mj-column>
+        <mj-column width="200px">
+          <mj-image src="" alt="" />
+          <mj-text align="center">
+            <p>Vitamina D-3 10.000 IU (250 mcg) - 60 tablets - Natrol<p/>
+            <p>R$ 129,99<p/>
+          </mj-text>
+          <mj-button>
+            Pedir
+          </mj-button>
+        </mj-column>
+      </mj-section>
 
 
     <mj-section>
       <mj-column width="500px">
         <mj-image src="https://i.ytimg.com/vi_webp/FuqCqibXDAQ/hqdefault.webp" alt="Vídeo sobre Global Vitaminas" href="https://youtu.be/FuqCqibXDAQ" />
-        <mj-text>
-          <mj-text align="center">
-            <p style="font-size: 12px; line-height: 15px">Global Vitaminas Sua Loja de Suplementos Importados 100% Originais - Direto dos EUA para sua casa
-</p>
-          </mj-text>
-          <mj-image src="" alt="" />
+        <mj-text align="center">
+          <p style="font-size: 12px; line-height: 15px">Global Vitaminas Sua Loja de Suplementos Importados 100% Originais - Direto dos EUA para sua casa
+          </p>
         </mj-text>
+        <mj-image width='100px' src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/logo_fim.png?raw=true" alt="" />
+
       </mj-column>
     </mj-section>
   </mj-body>
