@@ -1,0 +1,36 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#fff">
+      <mj-column width="600px">
+        <mj-image src='https://cdn.sistemawbuy.com.br/arquivos/f8c8a8d71ca07ad727c1fdfe63a594ac/config/dhea-prasterona-melatonina,logo-fundo-branco-2-371.jpg' alt="Logomarca Global Vitaminas " width="300px" />
+        <mj-image src="" alt="Banner Global Vitaminas" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="300px">
+        <mj-image src="https://cdn-icons.flaticon.com/png/128/562/premium/562678.png?token=exp=1651842042~hmac=0dde09a4931e870e87d5aa9fc2a58064" alt="" />
+      </mj-column>
+      <mj-column width="300px">
+        <mj-image src="https://cdn-icons.flaticon.com/png/128/562/premium/562678.png?token=exp=1651842042~hmac=0dde09a4931e870e87d5aa9fc2a58064" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+
+    <mj-section>
+      <mj-column width="500px">
+        <mj-image src="https://i.ytimg.com/vi_webp/FuqCqibXDAQ/hqdefault.webp" alt="Vídeo sobre Global Vitaminas" href="https://youtu.be/FuqCqibXDAQ" />
+        <mj-text>
+          <mj-text align="center">
+            <p style="font-size: 12px; line-height: 15px">Global Vitaminas Sua Loja de Suplementos Importados 100% Originais - Direto dos EUA para sua casa
+</p>
+          </mj-text>
+          <mj-image src="" alt="" />
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
+<!-- 
+      IMAGEM DO PRODUTO
+            https://cdn.sistemawbuy.com.br/arquivos/f8c8a8d71ca07ad727c1fdfe63a594ac/produtos/TU9CIO6/15fa00b587-60e6035acb67a_mini.jpg -->
