@@ -26,7 +26,7 @@
     <!-- SEÇAO DE PRODUTOS SUPERIOR -->
     <mj-section>
       <mj-column width="200px">
-        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto6.png?raw=true" alt="" width="150px" />
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto6.png?raw=true" alt="PRODUTO" width="150px" />
         <mj-text align="center">
           <p>Tribulus Terrestris 625 mg - 100 Cápsulas - Optimum Nutrition
             <p />
@@ -40,7 +40,7 @@
         </mj-button>
       </mj-column>
       <mj-column width="200px">
-        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="150px" />
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="PRODUTO" width="150px" />
         <mj-text align="center">
           <p>Cognitex Elite Pregnenolone (Gastrodin) - Life Extension - 60 Capsulas
             <p />
@@ -54,7 +54,7 @@
         </mj-button>
       </mj-column>
       <mj-column width="200px">
-        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto1.png?raw=true" alt="" width="150px" />
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto1.png?raw=true" alt="PRODUTO" width="150px" />
         <mj-text align="center">
           <p>Mens Virility Power - Now Foods - 120 cápsulas
             <p />
@@ -77,7 +77,7 @@
     <!-- SEÇÃO DE PRODUTOS INFERIOR -->
     <mj-section>
       <mj-column width="200px">
-        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto2.png?raw=true" alt="" width="150px" />
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto2.png?raw=true" alt="PRODUTO" width="150px" />
         <mj-text align="center">
           <p>Alpha Lipoic Acid 300mg - Natrol - 50 cápsulas
             <p />
@@ -93,7 +93,7 @@
         </mj-button>
       </mj-column>
       <mj-column width="200px">
-        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="150px" />
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="PRODUTO" width="150px" />
         <mj-text align="center">
           <p>Vitamina D-3 10.000 IU (250 mcg) - 60 tablets - Natrol
             <p />
@@ -107,7 +107,7 @@
         </mj-button>
       </mj-column>
       <mj-column width="200px">
-        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto5.png?raw=true" alt="" width="150px" />
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto5.png?raw=true" alt="PRODUTO" width="150px" />
         <mj-text align="center">
           <p>Fematrope, 60 capsulas Dragon Pharma
             <p />
