@@ -1,19 +1,19 @@
 <mjml>
   <mj-body>
     <mj-section>
-      <mj-column width="600px">
+      <mj-column width="600px" padding="10px 0px">
         <mj-image src='https://cdn.sistemawbuy.com.br/arquivos/f8c8a8d71ca07ad727c1fdfe63a594ac/config/dhea-prasterona-melatonina,logo-fundo-branco-2-371.jpg' alt="Logomarca Global Vitaminas " width="300px" />
-        <mj-image width="600px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/banner.png?raw=true" alt="Banner Global Vitaminas" />
+        <mj-image  padding="10px 0px" width="600px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/banner.png?raw=true" alt="Banner Global Vitaminas" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#B4EA8F">
       <mj-column width="300px">
-        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/emagrecer.png?raw=true" alt="Dieta para Emagrecer" />
-        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/sono.png?raw=true" alt="Sono" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/emagrecer1.png?raw=true" alt="Emagrecimento" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/idade1.png?raw=true" alt="Anti Idade" />
       </mj-column>
       <mj-column width="300px">
-        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/idade.png?raw=true" alt="Idade" />
-        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/vitaminas.png?raw=true" alt="Vitaminas A a Z" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/sono1.png?raw=true" alt="Hormônios do Sono" />
+        <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/vitaminas1.png?raw=true" alt="Vitaminas A a Z" />
       </mj-column>
     </mj-section>
     <mj-section>
