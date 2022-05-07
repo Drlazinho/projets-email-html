@@ -16,93 +16,111 @@
         <mj-image width="250px" src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/vitaminas.png?raw=true" alt="Vitaminas A a Z" />
       </mj-column>
     </mj-section>
-      <mj-section>
-        <mj-column width="600px">
-          <mj-text align="center">
-            <h1>Lançamentos e Ofertas<h1>
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <mj-section>
-        <mj-column width="200px">
-          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto6.png?raw=true" alt="" width="150px"/>
-          <mj-text align="center">
-            <p>Tribulus Terrestris 625 mg - 100 Cápsulas - Optimum Nutrition<p/>
-            <p>3x de R$56,63 sem juros<p/>
-            <p style="color:#71878e">3x de R$33,30 sem juros<p/>
-          </mj-text>
-          <mj-button href="https://www.globalvitaminas.com/tribulus-terrestris-625-mg-100-capsulas-optimum-nutrition/">
-            Peça Agora
-          </mj-button>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="150px"/>
-          <mj-text align="center">
-            <p>Cognitex Elite Pregnenolone (Gastrodin) - Life Extension - 60 Capsulas<p/>
-            <p>R$ 399,90<p/>
-            <p style="color:#71878e">3x de R$133,30 sem juros<p/>
-          </mj-text>
-          <mj-button href="https://www.globalvitaminas.com/men-s-virility-power-now-foods-120-capsulas/">
-            Peça Agora
-          </mj-button>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto1.png?raw=true" alt="" width="150px"/>
-          <mj-text align="center">
-            <p>Mens Virility Power - Now Foods - 120 cápsulas<p/>
-            <p>R$ 199,90<p/>
-            <p style="color:#71878e">3x de R$66,63 sem juros<p/>
-          </mj-text>
-         <mj-button href="https://www.globalvitaminas.com/men-s-virility-power-now-foods-120-capsulas/">
-            Peça Agora
-          </mj-button>
-        </mj-column>
-      </mj-section>
-
-<mj-section>
-  <mj-column width="600px">
-            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" width="600px" />
-  </mj-column>
-</mj-section>
-      <mj-section>
-        <mj-column width="200px">
-          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto2.png?raw=true" alt="" width="150px"/>
-          <mj-text align="center">
-            <p>Alpha Lipoic Acid 300mg - Natrol - 50 cápsulas<p/>
+    <mj-section>
+      <mj-column width="600px">
+        <mj-text align="center">
+          <h1>Lançamentos e Ofertas<h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- SEÇAO DE PRODUTOS SUPERIOR -->
+    <mj-section>
+      <mj-column width="200px">
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto6.png?raw=true" alt="" width="150px" />
+        <mj-text align="center">
+          <p>Tribulus Terrestris 625 mg - 100 Cápsulas - Optimum Nutrition
+            <p />
+            <p>R$99,90
+              <p />
+              <p style="color:#009933">3x de R$33,30 sem juros
+                <p />
+        </mj-text>
+        <mj-button background-color="#009933" href="https://www.globalvitaminas.com/tribulus-terrestris-625-mg-100-capsulas-optimum-nutrition/">
+          Peça Agora
+        </mj-button>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="150px" />
+        <mj-text align="center">
+          <p>Cognitex Elite Pregnenolone (Gastrodin) - Life Extension - 60 Capsulas
+            <p />
+            <p>R$ 399,90
+              <p />
+              <p style="color:#009933">3x de R$133,30 sem juros
+                <p />
+        </mj-text>
+        <mj-button  background-color="#009933" href="https://www.globalvitaminas.com/men-s-virility-power-now-foods-120-capsulas/">
+          Peça Agora
+        </mj-button>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto1.png?raw=true" alt="" width="150px" />
+        <mj-text align="center">
+          <p>Mens Virility Power - Now Foods - 120 cápsulas
+            <p />
+            <p>R$ 199,90
+              <p />
+              <p style="color:#009933">3x de R$66,63 sem juros
+                <p />
+        </mj-text>
+        <mj-button  background-color="#009933" href="https://www.globalvitaminas.com/men-s-virility-power-now-foods-120-capsulas/">
+          Peça Agora
+        </mj-button>
+      </mj-column>
+    </mj-section>
+<!-- LINHA DIVISORA DA SEÇÃO DE PRODUTOS -->
+    <mj-section>
+      <mj-column width="600px">
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" width="600px" />
+      </mj-column>
+    </mj-section>
+    <!-- SEÇÃO DE PRODUTOS INFERIOR -->
+    <mj-section>
+      <mj-column width="200px">
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto2.png?raw=true" alt="" width="150px" />
+        <mj-text align="center">
+          <p>Alpha Lipoic Acid 300mg - Natrol - 50 cápsulas
+            <p />
             <p>R$119,90
 
-<p/>
-            <p style="color:#71878e">3x de R$39,97 sem juros
+              <p />
+              <p style="color:#009933">3x de R$39,97 sem juros
 
-<p/>
-          </mj-text>
-          <mj-button href="https://www.globalvitaminas.com/acido-alfa-lipoico-alpha-lipoic-acid-300-mg-natrol-50-capsulas/">
-            Peça Agora
-          </mj-button>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="150px"/>
-          <mj-text align="center">
-            <p>Vitamina D-3 10.000 IU (250 mcg) - 60 tablets - Natrol<p/>
-            <p>R$99,90<p/>
-            <p style="color:#71878e">3x de R$33,30 sem juros<p/>
-          </mj-text>
-          <mj-button href="https://www.globalvitaminas.com/vitamina-d-3-10-000-iu250mcg/">
-            Peça Agora
-          </mj-button>
-        </mj-column>
-        <mj-column width="200px">
-          <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto5.png?raw=true" alt="" width="150px"/>
-          <mj-text align="center">
-            <p>Fematrope, 60 capsulas Dragon Pharma<p/>
-            <p>R$219,90<p/>
-            <p style="color:#71878e">3x de R$73,30 sem juros<p/>
-          </mj-text>
-         <mj-button href="https://www.globalvitaminas.com/fematrope-60-capsulas-dragon-pharma/">
-            Peça Agora
-          </mj-button>
-        </mj-column>
-      </mj-section>
+                <p />
+        </mj-text>
+        <mj-button  background-color="#009933" href="https://www.globalvitaminas.com/acido-alfa-lipoico-alpha-lipoic-acid-300-mg-natrol-50-capsulas/">
+          Peça Agora
+        </mj-button>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto3.png?raw=true" alt="" width="150px" />
+        <mj-text align="center">
+          <p>Vitamina D-3 10.000 IU (250 mcg) - 60 tablets - Natrol
+            <p />
+            <p>R$99,90
+              <p />
+              <p style="color:#009933">3x de R$33,30 sem juros
+                <p />
+        </mj-text>
+        <mj-button background-color="#009933" href="https://www.globalvitaminas.com/vitamina-d-3-10-000-iu250mcg/">
+          Peça Agora
+        </mj-button>
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/produto5.png?raw=true" alt="" width="150px" />
+        <mj-text align="center">
+          <p>Fematrope, 60 capsulas Dragon Pharma
+            <p />
+            <p>R$219,90
+              <p />
+              <p style="color:#009933">3x de R$73,30 sem juros
+                <p />
+        </mj-text>
+        <mj-button  background-color="#009933" href="https://www.globalvitaminas.com/fematrope-60-capsulas-dragon-pharma/">
+          Peça Agora
+        </mj-button>
+      </mj-column>
+    </mj-section>
     <mj-section>
       <mj-column width="500px">
         <mj-image src="https://i.ytimg.com/vi_webp/FuqCqibXDAQ/hqdefault.webp" alt="Vídeo sobre Global Vitaminas" href="https://youtu.be/FuqCqibXDAQ" />
@@ -115,47 +133,56 @@
     <mj-section background-color="#00A582">
       <mj-column width="200px">
         <mj-text align="left">
-          <p style="color: #fff; font-size: 12px;">INSTITUCIONAL<p/>
-          <p><a href="https://www.globalvitaminas.com/sobre/" style="font-size: 10px; color: #fff; text-decoration: none" >SOBRE NÓS<a/><p/>
-          <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/fale-conosco/">FALE CONOSCO<a/><p/>
+          <p style="color: #fff; font-size: 12px;">INSTITUCIONAL
+            <p />
+            <p><a href="https://www.globalvitaminas.com/sobre/" style="font-size: 10px; color: #fff; text-decoration: none">SOBRE NÓS<a />
+                <p />
+                <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/fale-conosco/">FALE CONOSCO<a />
+                    <p />
         </mj-text>
       </mj-column>
       <mj-column width="200px">
         <mj-text align="center">
-          <p style="color: #fff; font-size: 12px;">PRECISA DE AJUDA?<p/>
-          <p><a href="https://www.globalvitaminas.com/politica-privacidade/" style="font-size: 10px; color: #fff; text-decoration: none" >PPLÍTICA DE PRIVACIDADE<a/><p/>
-          <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/termos/">TERMOS DE USO<a/><p/>
-          <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/m/entregas-e-devolucoes/">ENTREGA E DEVOLUÇÕES<a/><p/>
-          <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/central/pedidos/">ACOMPANHAR MEUS PEDIDOS<a/><p/>
+          <p style="color: #fff; font-size: 12px;">PRECISA DE AJUDA?
+            <p />
+            <p><a href="https://www.globalvitaminas.com/politica-privacidade/" style="font-size: 10px; color: #fff; text-decoration: none">PPLÍTICA DE PRIVACIDADE<a />
+                <p />
+                <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/termos/">TERMOS DE USO<a />
+                    <p />
+                    <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/m/entregas-e-devolucoes/">ENTREGA E DEVOLUÇÕES<a />
+                        <p />
+                        <p><a style="font-size: 10px; color: #fff; text-decoration: none" href="https://www.globalvitaminas.com/central/pedidos/">ACOMPANHAR MEUS PEDIDOS<a />
+                            <p />
         </mj-text>
       </mj-column>
       <mj-column width="200px">
         <mj-text align="right">
-          <p style="color: #fff; font-size: 12px;">ATENDIMENTO<p/>
-          <p style="font-size: 10px; color: #fff;">Não arrisque sua saúde comprando em qualquer loja. Na Global Vitaminas você paga mais barato e tem a certeza da origem do seu suplemento - Enviamos com rastreio direto dos EUA para sua casa - aqui é tudo 100% original. Frete e Imposto já inclusos no valor da compra.
+          <p style="color: #fff; font-size: 12px;">ATENDIMENTO
+            <p />
+            <p style="font-size: 10px; color: #fff;">Não arrisque sua saúde comprando em qualquer loja. Na Global Vitaminas você paga mais barato e tem a certeza da origem do seu suplemento - Enviamos com rastreio direto dos EUA para sua casa - aqui é tudo 100% original. Frete e Imposto já inclusos no valor da compra.
 
-<p/>
-             <p style="font-size: 10px; color: #fff;">Horário de atendimento
+              <p />
+              <p style="font-size: 10px; color: #fff;">Horário de atendimento
 
-<p/>
-             <p style="font-size: 10px; color: #fff;">Segunda à Sexta 9h às 18h
+                <p />
+                <p style="font-size: 10px; color: #fff;">Segunda à Sexta 9h às 18h
 
-<p/>
-             <p style="font-size: 10px; color: #fff;">(exceto feriados)
+                  <p />
+                  <p style="font-size: 10px; color: #fff;">(exceto feriados)
 
-<p/>
-             <p style="font-size: 12px; color: #fff; font-weight: bold">WhatsApp 11- 97541-0672
+                    <p />
+                    <p style="font-size: 12px; color: #fff; font-weight: bold">WhatsApp 11- 97541-0672
 
-<p/>
-             <p style="font-size: 12px; color: #fff; font-weight: bold">sac@globalvitaminas.com
+                      <p />
+                      <p style="font-size: 12px; color: #fff; font-weight: bold">sac@globalvitaminas.com
 
-<p/>
+                        <p />
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-                <mj-image width='100px' src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/logo_fim.png?raw=true" alt="" />
+        <mj-image width='100px' src="https://github.com/Drlazinho/projets-email-html/blob/master/global-viitaminas-email/images/logo_fim.png?raw=true" alt="" />
       </mj-column>
     </mj-section>
   </mj-body>
