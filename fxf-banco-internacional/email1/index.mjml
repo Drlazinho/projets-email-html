@@ -2,7 +2,11 @@
   <mj-body>
 
     <!-- Company Header -->
-    <mj-section background-color="#f0f0f0"></mj-section>
+    <mj-section background-color="#f0f0f0">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/projets-email-html/master/fxf-banco-internacional/email1/images/ffx-transformed%204.jpg"></mj-image>
+      </mj-column>
+    </mj-section>
 
     <!-- Image Header -->
     <mj-section background-color="#f0f0f0"></mj-section>
@@ -11,7 +15,14 @@
     <mj-section background-color="#fafafa"></mj-section>
 
     <!-- 2 columns section -->
-    <mj-section background-color="white"></mj-section>
+    <mj-section background-color="#0082BD">
+      <mj-column width="300px">
+                <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/projets-email-html/master/fxf-banco-internacional/email1/images/ffx-transformed%204.jpg"></mj-image>
+      </mj-column>
+      <mj-column width="300px">
+        
+      </mj-column>
+    </mj-section>
 
     <!-- Icons -->
     <mj-section background-color="#fbfbfb"></mj-section>
