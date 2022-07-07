@@ -1,34 +1,124 @@
 <mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+    </mj-attributes>
+        <mj-style>
+      @media(min-width: 480px) {
+        .padding-mobile {
+           padding: 0px 0px 0px 0px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
   <mj-body>
-
     <!-- Company Header -->
     <mj-section background-color="#f0f0f0">
       <mj-column padding="0">
-        <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/projets-email-html/master/fxf-banco-internacional/email1/images/ffx-transformed%204.jpg"></mj-image>
+        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%204.png?raw=true" alt="Logo da FXF"></mj-image>
       </mj-column>
     </mj-section>
 
     <!-- Image Header -->
-    <mj-section background-color="#f0f0f0"></mj-section>
-
-    <!-- Introduction Text -->
-    <mj-section background-color="#fafafa"></mj-section>
+    <mj-section background-color="#fafafa">
+      <mj-column width="600px">
+        <mj-text>
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 2; font-size: 16px">Sua empresa opera câmbio e toda vez é uma dor de cabeça?<br />
+            Não precisa ser assim!<br />
+            As suas operações de câmbio podem ser fáceis e nós podemos te ajudar.</p>
+          <p style="font-family: 'SourceSans'; color:#0082BD; line-height: 2; font-size: 20px; font-weight: bold; text-align: center">Somos a FFX Office, a primeira FX Office do Brasil.</p>
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px">
+            A FFX é referência em operações cambiais estruturadas e nascemos para preencher uma
+            lacuna no mercado financeiro: customizar soluções financeiras para empresas e pessoas.
+          </p>
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px">
+            Este é o conceito de FX Office, reunir todos os serviços financeiros e de escritório em um só lugar para um atendimento personalizado, ágil e próximo</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <!-- 2 columns section -->
     <mj-section background-color="#0082BD">
       <mj-column width="300px">
-                <mj-image padding="0px" width="151px" src="https://raw.githubusercontent.com/Drlazinho/projets-email-html/master/fxf-banco-internacional/email1/images/ffx-transformed%204.jpg"></mj-image>
+        <mj-image padding="0px" width="90px" src="https://raw.githubusercontent.com/Drlazinho/projets-email-html/master/fxf-banco-internacional/email1/images/image%205.png" alt="Selo da ABRACAM"></mj-image>
       </mj-column>
       <mj-column width="300px">
-        
+        <mj-text padding="0px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+            Nossa área de câmbio conta com uma equipe qualificada e certificada pela ABRACAM.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- 3 columns section -->
+    <mj-section background-color="#ffffff" padding="0px">
+      <mj-column width="200px"  padding="20px 0px 63px 0px">
+        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/cambio-monetario%201.png?raw=true" alt="imagem 1"></mj-image>
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold;">CÂMBIO PRONTO</p>
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: normal">
+            Nossa área de câmbio conta com uma equipe qualificada e certificada pela ABRACAM.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" mj-class="background-color-secondary" css-class="padding-mobile" padding="20px 0px 63px 0px">
+        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%208.png?raw=true" alt="imagem 2"></mj-image>
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">HEDGE CAMBIAL
+          </p>
+          <p css-class="mobile" style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: normal;">
+            Proteção contra as oscilações das moedas para as transações de câmbio.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px 0px 0px" css-class="padding-mobile">
+        <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%207.png?raw=true" alt="imagem 3"></mj-image>
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">CONTA INTERNACIONAL</p>
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: normal;">
+            A FFX é parceira de instituições financeiras conceituadas no Brasil e no mundo para
+            oferecer os melhores serviços e soluções.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0082BD">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+Quer nos conhecer melhor?          </p>
+        </mj-text>
+        <mj-button background-color="#009933" href="https://ffxoffice.com.br" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+É SÓ CLICAR AQUI 
+       </mj-button>
       </mj-column>
     </mj-section>
 
     <!-- Icons -->
-    <mj-section background-color="#fbfbfb"></mj-section>
 
     <!-- Social icons -->
-    <mj-section background-color="#f0f0f0"></mj-section>
+    <mj-section background-color="#f0f0f0">
+      <mj-column width="300px">
+      <mj-text align="center">
+        <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
+        <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none"><p style="color: #000000; ">Whatsapp </p><a>
+        <a href="  https://bit.ly/3AwWSVd" style="text-decoration: none"><p style="color: #000000; ">Instagram  </p><a>
+        <a href="  https://bit.ly/3acLymE" style="text-decoration: none"><p style="color: #000000; ">Linkedin  </p><a>
+        <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none"><p style="color: #000000; ">Site</p><a>
+      </mj-text>
+      </mj-column>
+      <mj-column width="300px">
+      <mj-text align="center">
+        <p style="font-weight: bold; font-size:16px; font-family: Roboto">Sede</p>
+        <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+      </mj-text>
+      </mj-column>
+    </mj-section>
 
   </mj-body>
 </mjml>
