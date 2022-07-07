@@ -54,9 +54,31 @@
       </mj-column>
     </mj-section>
 
+    <mj-section>
+      <mj-column width="200px" padding="0px">
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2016.png?raw=true" alt="8 anos" padding="0px"/>
+      </mj-column>      
+      <mj-column width="200px">
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2015.png?raw=true" alt="500 operações concluídas" padding="0px"/>
+      </mj-column>      
+      <mj-column width="200px">
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%202.png?raw=true" alt="700 milhões de reais" padding="0px"/>
+      </mj-column>      
+    </mj-section>
+
+        <mj-section background-color="#0082BD">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: normal">
+Em <b>8 anos de mercado</b>, transacionamos junto aos nossos clientes mais de <b>BRL 700 milhões</b> em <b>5100 operações concluídas</b> e atendemos empresas nacionais e
+internacionais.          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
     <!-- 3 columns section -->
     <mj-section background-color="#ffffff" padding="0px">
-      <mj-column width="200px"  padding="20px 0px 63px 0px">
+      <mj-column width="200px"  padding="20px 0px 73px 0px">
         <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/cambio-monetario%201.png?raw=true" alt="imagem 1"></mj-image>
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold;">CÂMBIO PRONTO</p>
@@ -65,7 +87,7 @@
           </p>
         </mj-text>
       </mj-column>
-      <mj-column width="200px" mj-class="background-color-secondary" css-class="padding-mobile" padding="20px 0px 63px 0px">
+      <mj-column width="200px" mj-class="background-color-secondary" css-class="padding-mobile" padding="20px 0px 73px 0px">
         <mj-image padding="0px" width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%208.png?raw=true" alt="imagem 2"></mj-image>
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">HEDGE CAMBIAL
