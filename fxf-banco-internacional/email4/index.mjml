@@ -1,0 +1,98 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+      <mj-title>Seu cliente ainda viaja com moeda em espécie?</mj-title>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%204.png?raw=true" alt="Logo da FXF"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section Header -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="320px">
+        <mj-text padding="0px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#0082BD; line-height: 1.2; font-size: 19px; font-weight: bold">
+            É importante que seu cliente <br />
+            esteja sempre satisfeito, não é?
+          </p>
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.2; font-size: 16px; font-weight: bold">
+            Por isso, nós desenvolvemos um conteúdo gratuito
+            e exclusivo para que você possa melhorar
+            a fidelização de seus clientes.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="280px">
+        <mj-image width="214px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/Group%204.png?raw=true" alt="image1"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F47920">
+      <mj-column width="280px">
+        <mj-image width="214px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/Group%204.png?raw=true" alt="image1"></mj-image>
+      </mj-column>
+      <mj-column width="320px">
+        <mj-text padding="0px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.2; font-size: 16px; font-weight: bold">
+            Você sabia que manter um cliente fidelizado é mais barato do que conquistar novos
+            clientes?
+            Até esse novo cliente cair no nosso funil de vendas, ele custa muito pra gente!
+          </p>
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+
+    <!-- CHAMADA -->
+    <mj-section background-color="#0082BD">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+            Para receber este conteúdo, basta se cadastrar no link abaixo.<br />
+            É gratuito e temos certeza que vai te ajudar e muito!
+
+          </p>
+        </mj-text>
+        <mj-button background-color="#009933" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+          CADASTRE-SE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Icons -->
+
+    <!-- Social icons -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column width="300px">
+        <mj-text align="center">
+          <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
+          <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none">
+            <p style="color: #000000; ">Whatsapp </p><a>
+              <a href="  https://bit.ly/3AwWSVd" style="text-decoration: none">
+                <p style="color: #000000; ">Instagram </p><a>
+                  <a href="  https://bit.ly/3acLymE" style="text-decoration: none">
+                    <p style="color: #000000; ">Linkedin </p><a>
+                      <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none">
+                        <p style="color: #000000; ">Site</p><a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text align="center">
+          <p style="font-weight: bold; font-size:16px; font-family: Roboto">Sede</p>
+          <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
