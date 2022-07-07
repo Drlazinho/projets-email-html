@@ -1,0 +1,181 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-class name="background-color-principal" background-color="#0082BD" />
+      <mj-class name="background-color-secondary" background-color="#007F62" />
+      <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+      <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
+      <mj-title>Seu cliente ainda viaja com moeda em espécie?</mj-title>
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <!-- Company Header -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column padding="0">
+        <mj-image padding="0px" width="151px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%204.png?raw=true" alt="Logo da FXF"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section Header -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="320px">
+        <mj-text padding="0px 20px" align="left">
+          <p style="font-family: 'Roboto'; color:#0082BD; line-height: 1.5; font-size: 26px; font-weight: bold">
+            Seu cliente ainda leva moeda física para o exterior?<br />
+            Isso ficou no passado.
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="280px">
+        <mj-image width="214px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/Group%204.png?raw=true" alt="image1"></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0082BD">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+            A FFX disponibiliza um produto seguro e fácil, que é utilizado por mais de 180 mil
+            pessoas no Brasil e no mundo.
+            O cartão de débito internacional pode ser usado no mundo inteiro e o melhor? Com taxas e
+            impostos 6x menores em relação aos cartões de crédito
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+        <mj-section background-color="#ffffff">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 26px; font-weight: bold">
+Dá uma olhada nos benefícios!
+</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0px">
+      <mj-column width="200px" padding="20px 0px">
+        <mj-image width="115.95px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/mastercard-logo%201.png?raw=true" alt="image2" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+   Bandeira Mastecard<br/>
+Aceito no mundo todo<br/><br/>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px" background-color="#0082BD">
+        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-lock-4341303_120563%201.png?raw=true" alt="image3" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+Segurança e sem<br/> risco de perder dinheiro<br/><br/>
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px">
+        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shoppaymentorderbuy-15_icon-icons%201.png?raw=true" alt="image4" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+Abertura de conta <br/>100% online e sem burocracio
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0px">
+      <mj-column width="200px"padding="20px 0px" background-color="#0082BD">
+        <mj-image width="81.82px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shopping_world_online_ecommerce_icon_192440%201.png?raw=true" alt="image5" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+Cartão online para <br/>compras em sites do exterior
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px">
+        <mj-image width="91px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/1486564175-finance-currency-exchange_81498%201.png?raw=true" alt="image6" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+Conversão Instantanea<br/>
+24/7 dias por semana
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px" background-color="#0082BD">
+        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-settings-4341324_120534%201.png?raw=true" alt="image7" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+Sem cobrança <br/>por inatividade ou <br/>manuteção da conta
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0px">
+      <mj-column width="200px" padding="20px 0px">
+        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/tax_payment_money_dollar_bill_icon_143260%201.png?raw=true" alt="image8" padding="0px" />
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+Sem surpresas <br/>adicionais!<br/>
+Taxas fixas<br/> em qualquer recargar
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px" background-color="#0082BD">
+        <mj-image width="83px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/image%207.png?raw=true" alt="image9" padding="0px" />
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+Saque dinheiro<br/> em qualquer moeda.<br/>
+Com taxa fixa<br/> de 5 USD por saque
+          </p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px 0px">
+        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/1491313934-more_83000%201.png?raw=true" alt="image10" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+E tem mais!<br/><br/><br/>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- CHAMADA -->
+    <mj-section background-color="#0082BD">
+      <mj-column width="600px">
+        <mj-text padding="0px 20px" align="center">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
+            Quer saber como oferecer isso aos seus clientes?<br/>
+É só entrar em contato com o nosso time de especialistas.
+</p>
+        </mj-text>
+        <mj-button background-color="#009933" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+FALAR COM ESPECIALISTA DA FFX      
+</mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- Icons -->
+
+    <!-- Social icons -->
+    <mj-section background-color="#f0f0f0">
+      <mj-column width="300px">
+        <mj-text align="center">
+          <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
+          <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none">
+            <p style="color: #000000; ">Whatsapp </p><a>
+              <a href="  https://bit.ly/3AwWSVd" style="text-decoration: none">
+                <p style="color: #000000; ">Instagram </p><a>
+                  <a href="  https://bit.ly/3acLymE" style="text-decoration: none">
+                    <p style="color: #000000; ">Linkedin </p><a>
+                      <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none">
+                        <p style="color: #000000; ">Site</p><a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="300px">
+        <mj-text align="center">
+          <p style="font-weight: bold; font-size:16px; font-family: Roboto">Sede</p>
+          <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
