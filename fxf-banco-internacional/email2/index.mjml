@@ -6,10 +6,10 @@
       <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
       <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
     </mj-attributes>
-        <mj-style>
+    <mj-style>
       @media(min-width: 480px) {
         .padding-mobile {
-           padding: 0px 0px 0px 0px !important;
+          padding: 0px 0px 0px 0px !important;
         }
       }
     </mj-style>
@@ -24,17 +24,17 @@
 
     <!-- Image Header -->
     <mj-section background-color="#ffffff">
-      <mj-column width="320px">
+      <mj-column width="300px" padding="0">
         <mj-image padding="0px" width="300px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2012.png?raw=true" alt="imagem representativa"></mj-image>
       </mj-column>
-      <mj-column width="280px">
-        <mj-text padding="0px 20px 0px 0px" align="left">
+      <mj-column width="300px">
+        <mj-text padding="0px 20px 0px 20px" align="left">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 2; font-size: 16px;">
-            <b>CONTA INTERNACIONAL DIGITAL<br/>
-0 tarifa<br/>
-Bandeira mastercard aceita no mundo todo<br/>
-Segurança e sem risco de perder dinheiro em viagens<br/>
-100% online e sem burocracia</b>
+            <b>CONTA INTERNACIONAL DIGITAL<br />
+              0 tarifa<br />
+              Bandeira mastercard aceita no mundo todo<br />
+              Segurança e sem risco de perder dinheiro em viagens<br />
+              100% online e sem burocracia</b>
           </p>
         </mj-text>
       </mj-column>
@@ -43,85 +43,89 @@ Segurança e sem risco de perder dinheiro em viagens<br/>
 
     <mj-section background-color="#0082BD">
       <mj-column width="300px">
-        <mj-image  width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/currencyexchangemoneyratedeskbank_109816%201.png?raw=true" alt="image1"></mj-image>
+        <mj-image width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/currencyexchangemoneyratedeskbank_109816%201.png?raw=true" alt="image1"></mj-image>
       </mj-column>
       <mj-column width="300px">
         <mj-text padding="0px 20px" align="left">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-Seu cliente pode pagar muito menos no câmbio e gastar muito mais com os produtos que
-você oferece!          </p>
+            Seu cliente pode pagar muito menos no câmbio e gastar muito mais com os produtos que
+            você oferece! </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column width="300px">
-        <mj-text padding="10px 0px 10px 50px">
+        <mj-text padding="10px 20px 10px 30px">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-Já pensou em oferecer uma conta internacional com custo 0 para o seu cliente ter mais
-agilidade e segurança nas viagens dele?
-</p>
+            Já pensou em oferecer uma conta internacional com custo 0 para o seu cliente ter mais
+            agilidade e segurança nas viagens dele?
+          </p>
         </mj-text>
       </mj-column>
-            <mj-column width="300px">
-        <mj-image  width="183px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2013.png?raw=true" alt="image2"></mj-image>
+      <mj-column width="300px">
+        <mj-image width="183px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2013.png?raw=true" alt="image2"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <!-- COLUMN 3 -->
+    <mj-section background-color="#0082BD" padding="0px">
+      <mj-column width="200px">
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2018.png?raw=true" alt="produto com custo 2x menor" padding="0px" />
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2019.png?raw=true" alt="imagem globo" padding="0px" />
+      </mj-column>
+      <mj-column width="200px">
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2017.png?raw=true" alt="imposto 6x menor" padding="0px" />
       </mj-column>
     </mj-section>
 
-
-
-
-    <mj-section background-color="#0082BD">
-      <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%202.png?raw=true" alt="produto com custo 2x menor" padding="0px"/>
-      </mj-column>      
-      <mj-column width="200px">
-        <mj-image width="150px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%2014.png?raw=true" alt="500 operações concluídas" padding="0px"/>
-      </mj-column>      
-      <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email2/images/Group%203.png?raw=true" alt="700 milhões de reais" padding="0px"/>
-      </mj-column>      
-    </mj-section>
-                <mj-section background-color="#0082BD">
+    <!-- TEXT 2 -->
+    <mj-section background-color="#0082BD" padding="0px">
       <mj-column width="600px">
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-A FFX por meio de uma parceria com um grande banco varejista, facilita isso para você.
-Um produto com um custo 2x menor e com impostos 6x mais baixos para pagar compras,
-fazer saques em qualquer moeda do mundo e de qualquer lugar do mundo!
-</p>
+            A FFX por meio de uma parceria com um grande banco varejista, facilita isso para você.
+            Um produto com um custo 2x menor e com impostos 6x mais baixos para pagar compras,
+            fazer saques em qualquer moeda do mundo e de qualquer lugar do mundo!
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
-   
-<!-- CHAMADA -->
+
+    <!-- CHAMADA -->
     <mj-section background-color="#ffffff">
       <mj-column width="600px">
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-Viagem Fechada?</p>
+            Viagem Fechada?</p>
         </mj-text>
         <mj-button background-color="#009933" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
-FALE CONOSCO 
-       </mj-button>
+          FALE CONOSCO
+        </mj-button>
       </mj-column>
     </mj-section>
 
-<!-- FOOTER SOCIAL -->
+    <!-- FOOTER SOCIAL -->
     <mj-section background-color="#f0f0f0">
       <mj-column width="300px">
-      <mj-text align="center">
-        <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
-        <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none"><p style="color: #000000; ">Whatsapp </p><a>
-        <a href="  https://bit.ly/3AwWSVd" style="text-decoration: none"><p style="color: #000000; ">Instagram  </p><a>
-        <a href="  https://bit.ly/3acLymE" style="text-decoration: none"><p style="color: #000000; ">Linkedin  </p><a>
-        <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none"><p style="color: #000000; ">Site</p><a>
-      </mj-text>
+        <mj-text align="center">
+          <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
+          <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none">
+            <p style="color: #000000; ">Whatsapp </p><a>
+              <a href="  https://bit.ly/3AwWSVd" style="text-decoration: none">
+                <p style="color: #000000; ">Instagram </p><a>
+                  <a href="  https://bit.ly/3acLymE" style="text-decoration: none">
+                    <p style="color: #000000; ">Linkedin </p><a>
+                      <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none">
+                        <p style="color: #000000; ">Site</p><a>
+        </mj-text>
       </mj-column>
       <mj-column width="300px">
-      <mj-text align="center">
-        <p style="font-weight: bold; font-size:16px; font-family: Roboto">Sede</p>
-        <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
-      </mj-text>
+        <mj-text align="center">
+          <p style="font-weight: bold; font-size:16px; font-family: Roboto">Sede</p>
+          <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
