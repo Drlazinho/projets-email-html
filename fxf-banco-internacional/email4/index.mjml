@@ -5,7 +5,7 @@
       <mj-class name="background-color-secondary" background-color="#007F62" />
       <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
       <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
-      <mj-title>Seu cliente ainda viaja com moeda em espécie?</mj-title>
+      <mj-title> Temos um presente pra você.</mj-title>
     </mj-attributes>
   </mj-head>
   <mj-body>
@@ -32,15 +32,15 @@
         </mj-text>
       </mj-column>
       <mj-column width="280px">
-        <mj-image width="214px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/Group%204.png?raw=true" alt="image1"></mj-image>
+        <mj-image width="185px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email4/images/image%2011.png?raw=true" alt="image1"></mj-image>
       </mj-column>
     </mj-section>
 
     <mj-section background-color="#F47920">
-      <mj-column width="280px">
-        <mj-image width="214px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/Group%204.png?raw=true" alt="image1"></mj-image>
+      <mj-column width="200px">
+        <mj-image width="100px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email4/images/3592854-add-user-business-man-employee-general-human-member-office_107767%201.png?raw=true" alt="image1"></mj-image>
       </mj-column>
-      <mj-column width="320px">
+      <mj-column width="400px">
         <mj-text padding="0px 20px" align="left">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.2; font-size: 16px; font-weight: bold">
             Você sabia que manter um cliente fidelizado é mais barato do que conquistar novos
@@ -63,7 +63,7 @@
 
           </p>
         </mj-text>
-        <mj-button background-color="#009933" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
+        <mj-button background-color="#009933" href="https://ffxoffice38985.activehosted.com/f/1" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
           CADASTRE-SE
         </mj-button>
       </mj-column>
