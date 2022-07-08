@@ -7,13 +7,6 @@
       <mj-font name="SourceSans" href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro" />
       <mj-title>As operações de câmbio da sua empresa podem ser mais fáceis</mj-title>
     </mj-attributes>
-        <mj-style>
-      @media(min-width: 480px) {
-        .padding-mobile {
-           padding: 0px 0px 0px 0px !important;
-        }
-      }
-    </mj-style>
   </mj-head>
   <mj-body>
     <!-- Company Header -->
@@ -60,10 +53,10 @@
         <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2016.png?raw=true" alt="8 anos" padding="0px"/>
       </mj-column>      
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2015.png?raw=true" alt="500 operações concluídas" padding="0px"/>
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%202.png?raw=true" alt="700 milhões de reais" padding="0px"/>
       </mj-column>      
       <mj-column width="200px">
-        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%202.png?raw=true" alt="700 milhões de reais" padding="0px"/>
+        <mj-image width="200px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/Group%2015.png?raw=true" alt="500 operações concluídas" padding="0px"/>
       </mj-column>      
     </mj-section>
 
@@ -121,8 +114,6 @@ Quer nos conhecer melhor?          </p>
        </mj-button>
       </mj-column>
     </mj-section>
-
-    <!-- Icons -->
 
     <!-- Social icons -->
     <mj-section background-color="#f0f0f0">
