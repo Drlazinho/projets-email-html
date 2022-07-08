@@ -43,12 +43,12 @@
       </mj-column>
     </mj-section>
 
-        <mj-section background-color="#ffffff">
+    <mj-section background-color="#ffffff">
       <mj-column width="600px">
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 26px; font-weight: bold">
-Dá uma olhada nos benefícios!
-</p>
+            Dá uma olhada nos benefícios!
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -59,8 +59,8 @@ Dá uma olhada nos benefícios!
         <mj-image width="112px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/mastercard-logo%201.png?raw=true" alt="image2" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-   Bandeira Mastecard<br/>
-Aceita no mundo todo<br/><br/>
+            Bandeira Mastecard<br />
+            Aceita no mundo todo<br /><br />
           </p>
         </mj-text>
       </mj-column>
@@ -68,15 +68,15 @@ Aceita no mundo todo<br/><br/>
         <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shoppaymentorderbuy-15_icon-icons%201.png?raw=true" alt="image4" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-Abertura de conta <br/>100% online e sem burocracia
+            Abertura de conta <br />100% online e sem burocracia
           </p>
         </mj-text>
       </mj-column>
-      <mj-column width="200px" padding="20px 0px" >
+      <mj-column width="200px" padding="20px 0px">
         <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-lock-4341303_120563%201.png?raw=true" alt="image2" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-Segurança e sem<br/> risco de perder dinheiro<br/><br/>
+            Segurança e sem<br /> risco de perder dinheiro<br /><br />
           </p>
         </mj-text>
       </mj-column>
@@ -84,11 +84,11 @@ Segurança e sem<br/> risco de perder dinheiro<br/><br/>
     </mj-section>
 
     <mj-section padding="0px">
-      <mj-column width="200px"padding="20px 0px" background-color="#0082BD">
+      <mj-column width="200px" padding="20px 0px" background-color="#0082BD">
         <mj-image width="81.82px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shopping_world_online_ecommerce_icon_192440%201.png?raw=true" alt="image5" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-Cartão online para <br/>compras em sites do exterior
+            Cartão online para <br />compras em sites do exterior
           </p>
         </mj-text>
       </mj-column>
@@ -96,8 +96,8 @@ Cartão online para <br/>compras em sites do exterior
         <mj-image width="91px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/1486564175-finance-currency-exchange_81498%201.png?raw=true" alt="image6" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-Conversão Instantanea<br/>
-24/7 dias por semana
+            Conversão Instantanea<br />
+            24/7 dias por semana
           </p>
         </mj-text>
       </mj-column>
@@ -105,7 +105,7 @@ Conversão Instantanea<br/>
         <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-settings-4341324_120534%201.png?raw=true" alt="image7" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-Sem cobrança <br/>por inatividade ou <br/>manuteção da conta
+            Sem cobrança <br />por inatividade ou <br />manuteção da conta
           </p>
         </mj-text>
       </mj-column>
@@ -115,8 +115,8 @@ Sem cobrança <br/>por inatividade ou <br/>manuteção da conta
         <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/tax_payment_money_dollar_bill_icon_143260%201.png?raw=true" alt="image8" padding="0px" />
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-Sem surpresas <br/>adicionais!<br/>
-Taxas fixas<br/> em qualquer recargar
+            Sem surpresas <br />adicionais!<br />
+            Taxas fixas<br /> em qualquer recargar
           </p>
         </mj-text>
       </mj-column>
@@ -124,8 +124,8 @@ Taxas fixas<br/> em qualquer recargar
         <mj-image width="83px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/image%207.png?raw=true" alt="image9" padding="0px" />
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-Saque dinheiro<br/> em qualquer moeda.<br/>
-Com taxa fixa<br/> de 5 USD por saque
+            Saque dinheiro<br /> em qualquer moeda.<br />
+            Com taxa fixa<br /> de 5 USD por saque
           </p>
         </mj-text>
       </mj-column>
@@ -133,7 +133,7 @@ Com taxa fixa<br/> de 5 USD por saque
         <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/1491313934-more_83000%201.png?raw=true" alt="image10" padding="0px" />
         <mj-text padding="0px 10px" align="center">
           <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
-E tem mais!<br/><br/><br/>
+            E tem mais!<br /><br /><br />
           </p>
         </mj-text>
       </mj-column>
@@ -143,51 +143,40 @@ E tem mais!<br/><br/><br/>
       <mj-column width="600px">
         <mj-text padding="0px 20px" align="center">
           <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-            Quer saber como oferecer isso aos seus clientes?<br/>
-É só entrar em contato com o nosso time de especialistas.
-</p>
+            Quer saber como oferecer isso aos seus clientes?<br />
+            É só entrar em contato com o nosso time de especialistas.
+          </p>
         </mj-text>
         <mj-button background-color="#009933" href="https://bit.ly/3bOOTZe" font-family="Roboto" color="#ffffff" font-weight="bold" font-size="16px" border-radius="20px">
-FALAR COM ESPECIALISTA DA FFX      
-</mj-button>
+          FALAR COM ESPECIALISTA DA FFX
+        </mj-button>
       </mj-column>
     </mj-section>
 
     <!-- Icons -->
 
     <!-- Social icons -->
-<mj-section background-color="#f0f0f0">
-<mj-group>
-      <mj-column padding="0px">
-      <mj-image width="33px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" alt="Instagram" href="https://bit.ly/3bOOTZe"/>
-      </mj-column>
-      <mj-column >
-      <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd"/>
-      </mj-column>
-      <mj-column>
-      <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd"/>
-      </mj-column>
-      <mj-column>
-      <mj-image width="70px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%2010.png?raw=true" alt="Instagram" href="https://bit.ly/3NtoZaC"/>
-      </mj-column>
-   
-</mj-group>
-     
-     
-      <!-- <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" />
-          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" />
-          <mj-social-element name="linkedin" href="https://bit.ly/3AwWSVd"/>
-          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%2010.png?raw=true" />
-        </mj-social> -->
-
-      </mj-column>
+    <mj-section background-color="#f0f0f0" padding-bottom="0px">
+      <mj-group>
+        <mj-column padding="0px">
+          <mj-image width="33px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" alt="Whatsapp" href="https://bit.ly/3bOOTZe" />
+        </mj-column>
+        <mj-column  padding="0px">
+          <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd" />
+        </mj-column>
+        <mj-column  padding="0px">
+          <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/image%2015.png?raw=true" alt="Linkedin" href="https://bit.ly/3acLymE" />
+        </mj-column>
+        <mj-column  padding="0px">
+          <mj-image width="60px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/ffx-transformed%2010.png?raw=true" alt="web" href="https://bit.ly/3NtoZaC" />
+        </mj-column>
+      </mj-group>
     </mj-section>
-    <mj-section>
-      <mj-column width="600px">
-              <mj-text align="center" padding="0px">
-        <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
-      </mj-text>
+    <mj-section  background-color="#f0f0f0" padding="0px 0px 20px 0px">
+      <mj-column width="600px" padding="0px">
+        <mj-text align="center" padding="0px 20px">
+          <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
       </mj-column>
     </mj-section>
 

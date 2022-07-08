@@ -113,19 +113,29 @@
     </mj-section>
 
     <!-- FOOTER SOCIAL -->
-<mj-section background-color="#f0f0f0">
-      <mj-column width="600px">
-      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" />
-          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" />
-          <mj-social-element name="linkedin" href="https://bit.ly/3AwWSVd"/>
-          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%2010.png?raw=true" />
-        </mj-social>
-              <mj-text align="center" padding="0px">
-        <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
-      </mj-text>
+    <!-- Social icons -->
+    <mj-section background-color="#f0f0f0" padding-bottom="0px">
+      <mj-group>
+        <mj-column padding="0px">
+          <mj-image width="33px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" alt="Whatsapp" href="https://bit.ly/3bOOTZe" />
+        </mj-column>
+        <mj-column  padding="0px">
+          <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd" />
+        </mj-column>
+        <mj-column  padding="0px">
+          <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/image%2015.png?raw=true" alt="Linkedin" href="https://bit.ly/3acLymE" />
+        </mj-column>
+        <mj-column  padding="0px">
+          <mj-image width="60px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/ffx-transformed%2010.png?raw=true" alt="web" href="https://bit.ly/3NtoZaC" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section  background-color="#f0f0f0" padding="0px 0px 20px 0px">
+      <mj-column width="600px" padding="0px">
+        <mj-text align="center" padding="0px 20px">
+          <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
+        </mj-text>
       </mj-column>
     </mj-section>
-
   </mj-body>
 </mjml>
