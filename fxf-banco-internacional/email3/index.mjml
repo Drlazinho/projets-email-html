@@ -65,21 +65,22 @@ Aceita no mundo todo<br/><br/>
         </mj-text>
       </mj-column>
       <mj-column width="200px" padding="20px 0px" background-color="#0082BD">
-        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-lock-4341303_120563%201.png?raw=true" alt="image2" padding="0px" />
-        <mj-text padding="0px 10px" align="center">
-          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
-Segurança e sem<br/> risco de perder dinheiro<br/><br/>
-          </p>
-        </mj-text>
-      </mj-column>
-      <mj-column width="200px" padding="20px 0px">
         <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/shoppaymentorderbuy-15_icon-icons%201.png?raw=true" alt="image4" padding="0px" />
         <mj-text padding="0px 10px" align="center">
-          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+          <p style="font-family: 'Roboto'; color:#ffffff; line-height: 1.5; font-size: 16px; font-weight: bold">
 Abertura de conta <br/>100% online e sem burocracia
           </p>
         </mj-text>
       </mj-column>
+      <mj-column width="200px" padding="20px 0px" >
+        <mj-image width="75px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email3/images/iconfinder-lock-4341303_120563%201.png?raw=true" alt="image2" padding="0px" />
+        <mj-text padding="0px 10px" align="center">
+          <p style="font-family: 'Roboto'; color:#000000; line-height: 1.5; font-size: 16px; font-weight: bold">
+Segurança e sem<br/> risco de perder dinheiro<br/><br/>
+          </p>
+        </mj-text>
+      </mj-column>
+
     </mj-section>
 
     <mj-section padding="0px">
@@ -156,13 +157,34 @@ FALAR COM ESPECIALISTA DA FFX
 
     <!-- Social icons -->
 <mj-section background-color="#f0f0f0">
-      <mj-column width="600px">
-      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+<mj-group>
+      <mj-column padding="0px">
+      <mj-image width="33px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" alt="Instagram" href="https://bit.ly/3bOOTZe"/>
+      </mj-column>
+      <mj-column >
+      <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd"/>
+      </mj-column>
+      <mj-column>
+      <mj-image width="30px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" alt="Instagram" href="https://bit.ly/3AwWSVd"/>
+      </mj-column>
+      <mj-column>
+      <mj-image width="70px" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%2010.png?raw=true" alt="Instagram" href="https://bit.ly/3NtoZaC"/>
+      </mj-column>
+   
+</mj-group>
+     
+     
+      <!-- <mj-social font-size="15px" icon-size="30px" mode="horizontal">
           <mj-social-element href="https://bit.ly/3bOOTZe" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" />
           <mj-social-element href="https://bit.ly/3AwWSVd" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" />
           <mj-social-element name="linkedin" href="https://bit.ly/3AwWSVd"/>
           <mj-social-element href="https://bit.ly/3NtoZaC" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%2010.png?raw=true" />
-        </mj-social>
+        </mj-social> -->
+
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column width="600px">
               <mj-text align="center" padding="0px">
         <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
       </mj-text>
