@@ -127,20 +127,13 @@ Quer nos conhecer melhor?          </p>
     <!-- Social icons -->
     <mj-section background-color="#f0f0f0">
       <mj-column width="600px">
-      <mj-text align="center">
-        <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
-        <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none"><p style="color: #000000; ">Whatsapp </p><a>
-        <a href="  https://bit.ly/3AwWSVd" style="text-decoration: none"><p style="color: #000000; ">Instagram  </p><a>
-        <a href="  https://bit.ly/3acLymE" style="text-decoration: none"><p style="color: #000000; ">Linkedin  </p><a>
-        <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none"><p style="color: #000000; ">Site</p><a>
-      </mj-text>
       <mj-social font-size="15px" icon-size="30px" mode="horizontal">
-          <mj-social-element name="linkedin" href="https://mjml.io/"/>
-          <mj-social-element name="instagram" href="https://mjml.io/"/>
-          <mj-social-element  name="twitter" href="https://mjml.io/"/>
-   
+          <mj-social-element href="https://bit.ly/3bOOTZe" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2013.png?raw=true" />
+          <mj-social-element href="https://bit.ly/3AwWSVd" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/image%2014.png?raw=true" />
+          <mj-social-element name="linkedin" href="https://bit.ly/3AwWSVd"/>
+          <mj-social-element href="https://bit.ly/3NtoZaC" src="https://github.com/Drlazinho/projets-email-html/blob/master/fxf-banco-internacional/email1/images/ffx-transformed%2010.png?raw=true" />
         </mj-social>
-              <mj-text align="center">
+              <mj-text align="center" padding="0px">
         <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
       </mj-text>
       </mj-column>
