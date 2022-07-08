@@ -126,7 +126,7 @@ Quer nos conhecer melhor?          </p>
 
     <!-- Social icons -->
     <mj-section background-color="#f0f0f0">
-      <mj-column width="300px">
+      <mj-column width="600px">
       <mj-text align="center">
         <p style="font-weight: bold; font-size:16px; font-family: Roboto">Formas de contato e redes sociais</p>
         <a href=" https://bit.ly/3bOOTZe" style="text-decoration: none"><p style="color: #000000; ">Whatsapp </p><a>
@@ -134,14 +134,16 @@ Quer nos conhecer melhor?          </p>
         <a href="  https://bit.ly/3acLymE" style="text-decoration: none"><p style="color: #000000; ">Linkedin  </p><a>
         <a href="  https://bit.ly/3NtoZaC" style="text-decoration: none"><p style="color: #000000; ">Site</p><a>
       </mj-text>
-      </mj-column>
-      <mj-column width="300px">
-      <mj-text align="center">
-        <p style="font-weight: bold; font-size:16px; font-family: Roboto">Sede</p>
+      <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="linkedin" href="https://mjml.io/"/>
+          <mj-social-element name="instagram" href="https://mjml.io/"/>
+          <mj-social-element  name="twitter" href="https://mjml.io/"/>
+   
+        </mj-social>
+              <mj-text align="center">
         <p style="color: #000000; ">Avenida Brigadeiro Luís Antônio, 2503, Jardim Paulista, São Paulo, SP BR</p>
       </mj-text>
       </mj-column>
     </mj-section>
-
   </mj-body>
 </mjml>
